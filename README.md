@@ -91,7 +91,7 @@ University of South Asia, Lahore
 
 Unity Game Development Intern  
 UET Game Studio — UET KICS  
-June – July 2026
+July – September 2026
 
 Worked with Unity 3D, C#, UI Design and Game Mechanics.
 
