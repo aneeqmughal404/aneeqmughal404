@@ -108,11 +108,11 @@ Worked with Unity 3D, C#, UI Design and Game Mechanics.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=aneeqmughal404&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<!-- <img height="165" src="https://github-readme-stats.vercel.app/api?username=aneeqmughal404&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aneeqmughal404&layout=compact&theme=tokyonight&hide_border=true" />
 
-<br/>
+<br/> -->
 
 <img src="https://streak-stats.demolab.com?user=aneeqmughal404&theme=tokyonight&hide_border=true" />
 
